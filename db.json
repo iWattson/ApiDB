@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Five Nights At Freddy's",
+        "descripcion": "Como guardia de seguridad debes sobrevivir a toda la noche y cuidar de que los muñecos no escapen del restaurante. Muchos guardias de seguridad han caído ya en tu puesto.",
+        "precio": 1000
+    },
+    {
+        "nombre": "",
+        "descripcion": "En el juego, los jugadores deben sobrevivir en un mundo lleno de dinosaurios y otros animales prehistóricos que deambulan por el mapa, peligros naturales y otros jugadores potencialmente hostiles",
+        "precio": 3000
+    }
+]
